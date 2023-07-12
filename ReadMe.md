@@ -1,5 +1,5 @@
 
-### 👨🏽‍💻 About me:
+### 👨🏽‍💻 Sobre mim:
 
 Olá me chamo Alexandre Fernandes atualmente atuo como desenvolvedor FullStack
 
