@@ -12,9 +12,6 @@ Olá me chamo Alexandre Fernandes atualmente atuo como desenvolvedor Back-end
 
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-FP&&langs_count=6&theme=dark&layout=compact" alt="Alexandre-FP" />
  
-<br />
-<br />
-
 ### Contacts
 ---
 <p>
