@@ -1,7 +1,7 @@
 
 ### 👨🏽‍💻 Sobre mim:
 
-Olá me chamo Alexandre Fernandes atualmente atuo como desenvolvedor FullStack
+Olá me chamo Alexandre Fernandes atualmente atuo como desenvolvedor Back-end
 
 - 🤔 &nbsp; Explorar novas tecnologias e desenvolver soluções de software.
 
