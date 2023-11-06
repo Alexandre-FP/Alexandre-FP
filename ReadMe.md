@@ -1,7 +1,7 @@
 
 ### 👨🏽‍💻 Sobre mim:
 
-Olá me chamo Alexandre Fernandes atualmente atuo como desenvolvedor Back-end
+Olá me chamo Alexandre Fernandes atualmente atuo como desenvolvedor BackEnd
 
 - 🤔 &nbsp; Explorar novas tecnologias e desenvolver soluções de software.
 
