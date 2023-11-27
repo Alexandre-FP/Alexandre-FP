@@ -12,16 +12,16 @@
 ##
 
 #### Estou em constância aprendizados nas seguinte tecnologias:
-[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>]
-[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=nest"/>]
-[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>]
-[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>]
-[<img height="48px" width="48px" alt="Icone Npm.js" src="https://i.postimg.cc/L8k9jKJ2/Group.png"/>]
-[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>]
-[<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>]
-[<img height="48px" width="48px" alt="Icone Prisma" src="https://skillicons.dev/icons?i=prisma"/>]
-[<img height="48px" width="48px" alt="Icone Express" src="https://skillicons.dev/icons?i=express"/>]
-[<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>]
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>]()
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=nest"/>]()
+[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>]()
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>]()
+[<img height="48px" width="48px" alt="Icone Npm.js" src="https://i.postimg.cc/L8k9jKJ2/Group.png"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>]()
+[<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>]()
+[<img height="48px" width="48px" alt="Icone Prisma" src="https://skillicons.dev/icons?i=prisma"/>]()
+[<img height="48px" width="48px" alt="Icone Express" src="https://skillicons.dev/icons?i=express"/>]()
+[<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>]()
 
 ##
 
