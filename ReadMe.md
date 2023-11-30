@@ -66,6 +66,7 @@ Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React
 Período - 4/5
 <br/> 
 
+
 ##
 
 #### Estatísticas:
