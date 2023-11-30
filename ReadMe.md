@@ -65,7 +65,7 @@ Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React
 [**FEPI – Centro Universitário de Itajubá**](https://fepi.br/) \
 Período - 4/5
 <br/> 
-
+<br/> 
 
 ##
 
