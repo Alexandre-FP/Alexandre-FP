@@ -23,6 +23,7 @@
 [<img height="48px" width="48px" alt="Icone Express" src="https://skillicons.dev/icons?i=express"/>]()
 [<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>]()
 [<img height="48px" width="48px" alt="Icone Sequelize" src="https://skillicons.dev/icons?i=sequelize"/>]()
+[<img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>]()
 
 ##
 
