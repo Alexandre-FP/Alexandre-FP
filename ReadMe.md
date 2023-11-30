@@ -62,11 +62,11 @@ Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQFDFQgUB2estA/company-logo_200_200/0/1698180792396/centro_universitrio_de_itajub_logo?e=1709164800&v=beta&t=xfoe9scGT27BBlX54_v9vflE4qv2G5szeFpLbBxh2WI"/>](https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&utm_term=rocketseat&utm_campaign=PROGRAMAS-ALL-BRANDKWS-SEM&utm_source=adwords&utm_medium=cpc&hsa_acc=8545075154&hsa_cam=16048648686&hsa_grp=135825188594&hsa_ad=579096962131&hsa_src=g&hsa_tgt=kwd-679159515078&hsa_kw=rocketseat&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAmZGrBhAnEiwAo9qHiQ0tS6Cda6_Dpv4ZbrZ6ck-l4XuYTWxiT80gRy_McvyD-m5HEpcoRhoCDZwQAvD_BwE)
 **Análise e desenvolvimento de sistemas** \
-[**FEPI – Centro Universitário de Itajubá**](https://fepi.br/) \ 
+[**FEPI – Centro Universitário de Itajubá**](https://fepi.br/) \
 Período - 4/5
-<br/>
+<br/> 
 
 ##
 
 #### Estatísticas:
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-FP&&langs_count=6&theme=dark&layout=compact"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-FP&&langs_count=6&theme=dark&layout=compact"/>](https://github.com/) 
