@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## Hello, Devs!! 👋
-### Olá me chamo Alexandre Fernandes atualmente atuo como desenvolvedor BackEnd, Seja bem-vindo ao meu perfil GitHub.<img src="https://bernardmarr.com/wp-content/uploads/2022/04/The-10-Biggest-Technology-Trends-That-Will-Transform-The-Next-Decade.jpg" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+### Olá me chamo Alexandre Fernandes atualmente atuo como desenvolvedor BackEnd, Seja bem-vindo ao meu perfil GitHub.<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰  Sou de Itajubá-MG, Brasil
 - ⚡ Apaixonado por Música e Tecnologia
