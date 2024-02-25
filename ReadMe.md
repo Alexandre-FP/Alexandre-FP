@@ -4,7 +4,7 @@
 ### Olá me chamo Alexandre Fernandes atualmente atuo como desenvolvedor BackEnd, Seja bem-vindo ao meu perfil GitHub.<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰  Sou de Itajubá-MG, Brasil
-- ⚡ Apaixonado por Música e Tecnologia
+- ⚡ Apaixonado por Games, Música e Tecnologia
 - 🧠 Estudante de Desenvolvimento de Software na RocktSeat
 - 🧠 Análise e Desenvolvimento de Sistemas
 - 🏦 Gerenciamento e desenvolvimento do workflow processos licitatórios. Essa aplicação abrange etapas cruciais, incluindo a identificação da necessidade, o planejamento, o recebimento de propostas e a avaliação.
