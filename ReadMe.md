@@ -45,27 +45,51 @@
 #### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQECdyrnz6rSHA/company-logo_200_200/0/1630527482366/prefeituradeitajuba_logo?e=1709164800&v=beta&t=0vBJNnnzbivZ_-SrtPpHTPzrYcZDdaLnWXn9xrtWng0"/>
-Competências: JavaScript · Prisma · PostgreSQL · Docker · Git · Rest Api · Express.js ·Node.js 
+<img align="left" height="50px" width="100px" alt="Warpnet" src="https://www.itajuba.mg.gov.br/css/images/logotipo.png"/>
+<!-- <br /> -->
+
+<div style="margin-left: 105px;"> 
+
+Competências: `JavaScript` · `Prisma` · `PostgreSQL` · `Docker` · `Git` · `Rest Api` · `Express.js` ·`Node.js` 
 <br/> Gerenciamento e desenvolvimento do workflow processos licitatórios. Essa aplicação abrange etapas cruciais, incluindo a identificação da necessidade, o planejamento, o recebimento de propostas e a avaliação. Por meio de uma interface amigável e intuitiva, nossa solução simplifica e agiliza todo o processo, proporcionando uma experiência mais eficaz e transparente para os usuários envolvidos nesse importante procedimento de aquisição de bens e serviços.
+
+</div>
 
 ##
 
 #### Formação Acadêmica:
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQFU-ZKLLdANXg/company-logo_200_200/0/1630657784564/rocketseat_logo?e=1709164800&v=beta&t=kD_wI4O0B-Ox-sCaGJ-Y2mn1SBVET9IpTJop3Fr3xBg"/>](https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&utm_term=rocketseat&utm_campaign=PROGRAMAS-ALL-BRANDKWS-SEM&utm_source=adwords&utm_medium=cpc&hsa_acc=8545075154&hsa_cam=16048648686&hsa_grp=135825188594&hsa_ad=579096962131&hsa_src=g&hsa_tgt=kwd-679159515078&hsa_kw=rocketseat&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAmZGrBhAnEiwAo9qHiQ0tS6Cda6_Dpv4ZbrZ6ck-l4XuYTWxiT80gRy_McvyD-m5HEpcoRhoCDZwQAvD_BwE)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/28929274?s=280&v=4"/>](https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&utm_term=rocketseat&utm_campaign=PROGRAMAS-ALL-BRANDKWS-SEM&utm_source=adwords&utm_medium=cpc&hsa_acc=8545075154&hsa_cam=16048648686&hsa_grp=135825188594&hsa_ad=579096962131&hsa_src=g&hsa_tgt=kwd-679159515078&hsa_kw=rocketseat&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAmZGrBhAnEiwAo9qHiQ0tS6Cda6_Dpv4ZbrZ6ck-l4XuYTWxiT80gRy_McvyD-m5HEpcoRhoCDZwQAvD_BwE)
+
+<div style="margin-left: 105px;"> 
+
 **Software Developer** \
 [**Rocketseat**](https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&utm_term=rocketseat&utm_campaign=PROGRAMAS-ALL-BRANDKWS-SEM&utm_source=adwords&utm_medium=cpc&hsa_acc=8545075154&hsa_cam=16048648686&hsa_grp=135825188594&hsa_ad=579096962131&hsa_src=g&hsa_tgt=kwd-679159515078&hsa_kw=rocketseat&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAmZGrBhAnEiwAo9qHiQ0tS6Cda6_Dpv4ZbrZ6ck-l4XuYTWxiT80gRy_McvyD-m5HEpcoRhoCDZwQAvD_BwE) \
+
+<div style="margin-top: -6px">
+
 Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
 <br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `Prisma`, `PostgreSQL`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQFDFQgUB2estA/company-logo_200_200/0/1698180792396/centro_universitrio_de_itajub_logo?e=1709164800&v=beta&t=xfoe9scGT27BBlX54_v9vflE4qv2G5szeFpLbBxh2WI"/>](https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&utm_term=rocketseat&utm_campaign=PROGRAMAS-ALL-BRANDKWS-SEM&utm_source=adwords&utm_medium=cpc&hsa_acc=8545075154&hsa_cam=16048648686&hsa_grp=135825188594&hsa_ad=579096962131&hsa_src=g&hsa_tgt=kwd-679159515078&hsa_kw=rocketseat&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAmZGrBhAnEiwAo9qHiQ0tS6Cda6_Dpv4ZbrZ6ck-l4XuYTWxiT80gRy_McvyD-m5HEpcoRhoCDZwQAvD_BwE)
+</div>
+</div>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.educabras.com/media/faculdades/image/fepi.jpeg"/>](https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&utm_term=rocketseat&utm_campaign=PROGRAMAS-ALL-BRANDKWS-SEM&utm_source=adwords&utm_medium=cpc&hsa_acc=8545075154&hsa_cam=16048648686&hsa_grp=135825188594&hsa_ad=579096962131&hsa_src=g&hsa_tgt=kwd-679159515078&hsa_kw=rocketseat&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAmZGrBhAnEiwAo9qHiQ0tS6Cda6_Dpv4ZbrZ6ck-l4XuYTWxiT80gRy_McvyD-m5HEpcoRhoCDZwQAvD_BwE)
+
+<div style="margin-left: 105px;"> 
+
 **Análise e desenvolvimento de sistemas** \
 [**FEPI – Centro Universitário de Itajubá**](https://fepi.br/) \
+
+<div  style="margin-top: -6px">
 Período - 4/5
+
+</div>
 <br/> 
 <br/> 
+
+</div>
 
 ##
 
