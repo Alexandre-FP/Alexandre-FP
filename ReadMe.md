@@ -83,7 +83,7 @@ Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React
 [**FEPI – Centro Universitário de Itajubá**](https://fepi.br/) \
 
 <div  style="margin-top: -6px">
-Período - 4/5
+Período - 5/5
 
 </div>
 <br/> 
