@@ -45,6 +45,20 @@
 #### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+<img align="left" height="50px" width="100px" alt="Warpnet" src="https://globalfinanceiro.com.br/wp-content/uploads/2024/02/logo-global-finanaceiro-color.webp"/>
+<!-- <br /> -->
+
+<div style="margin-left: 105px;"> 
+
+Competências: `TypeScript` · `Prisma` · `PostgreSQL` · `Docker` · `Git` · `Rest Api` · `Nest.js` ·`Node.js` ·`SOLID` ·`Apache Kafka` ·`SQL` ·`Micro-Serviços` 
+<br/> Atualmente, atuo como estagiário de desenvolvimento de software na Empresa XYZ, onde sou responsável por implementar novas funcionalidades no sistema de assinatura digital, sempre focando na escalabilidade e na qualidade do código. Além disso, também sou encarregado de corrigir bugs e melhorar a experiência dos usuários finais, garantindo que o sistema atenda às suas necessidades de forma eficiente.
+
+Tenho experiência no desenvolvimento de micro-serviços, utilizando a arquitetura orientada a eventos com integração ao Apache Kafka, o que possibilita uma comunicação assíncrona e robusta entre diferentes partes do sistema. Durante o estágio, refatorei diversas partes do código, aplicando princípios de boas práticas como Clean Code e SOLID, contribuindo para a manutenção e evolução do projeto. Faço parte de uma equipe dedicada a entregar soluções inovadoras e de alto impacto.
+
+As principais tecnologias que utilizo no meu dia a dia incluem TypeScript, NestJS, Prisma, PostgreSQL, Docker e Apache Kafka.
+
+</div>
+
 <img align="left" height="50px" width="100px" alt="Warpnet" src="https://www.itajuba.mg.gov.br/css/images/logotipo.png"/>
 <!-- <br /> -->
 
