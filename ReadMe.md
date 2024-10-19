@@ -51,7 +51,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 <div style="margin-left: 105px;"> 
 
 Competências: `TypeScript` · `Prisma` · `PostgreSQL` · `Docker` · `Git` · `Rest Api` · `Nest.js` ·`Node.js` ·`SOLID` ·`Apache Kafka` ·`SQL` ·`Micro-Serviços` 
-<br/> Atualmente, atuo como estagiário de desenvolvimento de software na Empresa XYZ, onde sou responsável por implementar novas funcionalidades no sistema de assinatura digital, sempre focando na escalabilidade e na qualidade do código. Além disso, também sou encarregado de corrigir bugs e melhorar a experiência dos usuários finais, garantindo que o sistema atenda às suas necessidades de forma eficiente.
+<br/> Atualmente, atuo como estagiário de desenvolvimento de software, onde sou responsável por implementar novas funcionalidades no sistema de assinatura digital, sempre focando na escalabilidade e na qualidade do código. Além disso, também sou encarregado de corrigir bugs e melhorar a experiência dos usuários finais, garantindo que o sistema atenda às suas necessidades de forma eficiente.
 
 Tenho experiência no desenvolvimento de micro-serviços, utilizando a arquitetura orientada a eventos com integração ao Apache Kafka, o que possibilita uma comunicação assíncrona e robusta entre diferentes partes do sistema. Durante o estágio, refatorei diversas partes do código, aplicando princípios de boas práticas como Clean Code e SOLID, contribuindo para a manutenção e evolução do projeto. Faço parte de uma equipe dedicada a entregar soluções inovadoras e de alto impacto.
 
